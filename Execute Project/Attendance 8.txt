@@ -1,0 +1,20 @@
+Tuesday 27-12-2021
+1: Malik Rashid Ali: P
+2: Basit: P
+3: Ibrahim: A
+4: Nabeel: P
+Wednesday 27-12-2021
+1: Malik Rashid Ali: P
+2: Basit: P
+3: Ibrahim: P
+4: Nabeel: A
+Thursday 30-12-2021
+1: Malik Rashid Ali: P
+2: Basit: P
+3: Ibrahim: A
+4: Nabeel: A
+Friday 31-12-2021
+1: Malik Rashid Ali: P
+2: Basit: P
+3: Ibrahim: A
+4: Nabeel: P

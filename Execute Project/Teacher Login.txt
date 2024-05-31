@@ -1,0 +1,7 @@
+Nauman Ijaz;Math
+Waris Mahmood;English
+Naeem Akhtar;Urdu
+Amjad;Science
+Akram;Computer
+Ishtaiq;Islamiat
+Khuram;Social Studies
